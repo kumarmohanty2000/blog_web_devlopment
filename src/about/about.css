@@ -1,0 +1,69 @@
+.about {
+    max-width: 300px;
+    margin:10px auto;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .about-the-blogger {
+    text-align: center;
+    margin-bottom: 20px;
+    margin: 1vw;
+    border: 2px solid #eae5e5;
+    border-radius: 8px;
+  }
+  
+  .about-the-blogger-title {
+    font-size: 24px;
+    margin: 8px;
+  }
+  
+  .about-the-blogger-text {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #727171;
+  }
+
+  .welcome-to-mordern-blog{
+    margin: 1vw;
+    padding: 1vw;
+    text-align: center;
+    border: 2px solid #ded7d7;
+    border-radius: 5px;
+  }
+
+  .welcome-to-mordern-blog-text{
+    margin-top: 10px;
+    font-size: 18px;
+    color: #7c7979;
+  }
+  
+  .tags{
+    margin: 1vw;
+    padding: 1vw;
+    text-align: center;
+    border: 2px solid #e3dede;
+    border-radius: 5px;
+  }
+  
+  .tags ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  .tags-title{
+    margin-bottom: 10px;
+  }
+  
+  .tags li {
+    background-color: #d8ebb7;
+    text-align: left;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    color: #666;
+
+  }
+  

@@ -1,0 +1,14 @@
+.home {
+    display: block;
+    text-align: center;
+    /* justify-content: center; */
+    place-items: center;
+    height: 50vh;
+    /* width: 50vw; */
+    padding: 10%;
+    background: rgb(141, 237, 237);
+    font-size: 2rem;
+  }
+  .home h2{
+    margin-bottom: 10px;
+  }
